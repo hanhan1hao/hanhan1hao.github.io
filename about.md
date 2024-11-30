@@ -3,12 +3,12 @@ layout: page
 title: 关于我 
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+憨憨1号，小萌新一枚
 
-除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
+尝试搭建一个个人博客
 
-平时喜欢用python写一些工具，能用工具做的事情坚决不用人工去操作。
 
+<h1>以下是leopardpan作者原文</h1>
 <h2> 我们的博客 </h2>  
 
 这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
@@ -22,12 +22,6 @@ title: 关于我
 
 博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
-
-<h3> 搭建博客遇到了问题解法方法 </h3>  
-
-查看 [技术支持](http://leopardpan.cn/support/) 需求帮助
-
-博客模板会一直持续更新，请持续关注我，谢谢~
 
 {% include comments.html %}
 
